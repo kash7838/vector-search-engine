@@ -3,6 +3,7 @@ vecsearch
 server
 *.o
 *.obj
+vector_engine
 
 # Local vector database files
 vectors.bin
