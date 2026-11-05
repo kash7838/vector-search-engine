@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "vector": [0.12, -0.43, 0.89, 1.54],
+    "metadata": { "category": "tech", "source": "doc_A" }
+  },
+  {
+    "id": 1,
+    "vector": [-0.05, 0.76, 0.11, -1.22],
+    "metadata": { "category": "finance", "source": "doc_B" }
+  },
+  {
+    "id": 2,
+    "vector": [2.34, 1.11, -0.55, 0.04],
+    "metadata": { "category": "healthcare", "source": "doc_C" }
+  }
+]

@@ -1,0 +1,16 @@
+# Compiled binaries and build outputs
+vecsearch
+server
+*.o
+*.obj
+
+# Local vector database files
+vectors.bin
+
+# OS-specific generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
